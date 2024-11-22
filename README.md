@@ -41,6 +41,46 @@ to push the changes:
         class01 -> main
         ex: git push origin class01
 
+### Daily
+
+to check the branch is clean
+
+    git status
+
+to checkout the main branch
+
+    git checkout main
+
+to get the latest changes
+
+    git pull origin main
+
 to create new branch
 
     git checkout -b <new branch name>
+
+
+## Course Completed
+
+[class 00] (https://drive.google.com/drive/u/1/folders/17lX7s65R2qBxC9E9uiyJx112I1EBLbwS)
+
+    00. DEv setup
+        installing IDE/editor
+        installing python and local setup
+        github access, creating project
+
+[classs 01] (https://drive.google.com/drive/u/1/folders/17lX7s65R2qBxC9E9uiyJx112I1EBLbwS) 
+
+        git commands
+        markdown syntax
+        daily activity and usage
+
+    01.Introduction
+
+        importance of python
+        two versions of python (2.x &3.x)
+        built-in functions
+        comment operator
+        keywords and indentifiers
+        line continuation and statement operators
+        
