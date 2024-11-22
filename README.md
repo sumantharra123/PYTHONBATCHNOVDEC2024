@@ -22,11 +22,25 @@ to see the latest local changes:
 
     git status
 
-to exactly see the changes made on a single file:
+to exactly see the changes made or modified on a single file:
 
     git diff
 
 to stage the changes:
 
     git add <filename>
-    
+
+to commit the changes:
+
+    git commit -m "commit message"
+
+to push the changes:
+
+    git push origin <sourcebranch>
+
+        class01 -> main
+        ex: git push origin class01
+
+to create new branch
+
+    git checkout -b <new branch name>
