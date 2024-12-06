@@ -79,8 +79,20 @@ to create new branch
 
         importance of python
         two versions of python (2.x &3.x)
+
+[class 02] 
+        PEP 8 Guidelines (https://peps.python.org/pep-0008/)
+        Shebang line
+        Indentation
         built-in functions
-        comment operator
+        script mode vs interactive mode
+        juptyer note book usage
+        ascii and unicode characters
+
+## next class
+
+        comment opertaor
         keywords and indentifiers
         line continuation and statement operators
+
         
