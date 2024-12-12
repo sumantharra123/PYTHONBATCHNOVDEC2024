@@ -89,10 +89,29 @@ to create new branch
         juptyer note book usage
         ascii and unicode characters
 
-## next class
+[class 03]
 
         comment opertaor
         keywords and indentifiers
         line continuation and statement operators
+        seperator operators
+
+    02. basics
+        arthimetic operations
+            +, -, /, *, %, //
+            divmod() function
+            compound opertions
+
+    assignments
+
+        ## assignment - try to the sum of digits in a intiger number, using divmod()
+        ### assignmnet - if a clock has revolved for 32 times, and a half way, how many days complewted
+
+
+            practical problem solving
+            working with complex numbers
+            operator procedure in arthimetic operations
+
+
 
         
